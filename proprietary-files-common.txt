@@ -16,7 +16,6 @@ product/etc/security/fsverity/gms_fsverity_cert.der
 
 product/etc/sysconfig/allowed_apex_com.google.android.gmssystem.xml
 product/etc/sysconfig/d2d_cable_migration_feature.xml
-product/etc/sysconfig/google.xml
 system/etc/sysconfig/google-hiddenapi-package-allowlist.xml:product/etc/sysconfig/google-hiddenapi-package-allowlist.xml
 
 system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk;PRESIGNED

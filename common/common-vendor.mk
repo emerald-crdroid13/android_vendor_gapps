@@ -19,7 +19,6 @@ PRODUCT_PACKAGES += \
     default-permissions-google.xml \
     gms_fsverity_cert.der \
     google-hiddenapi-package-allowlist.xml \
-    google.xml \
     privapp-permissions-google-product.xml \
     privapp-permissions-google-system_ext.xml
 

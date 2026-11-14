@@ -189,14 +189,6 @@ prebuilt_etc {
 }
 
 prebuilt_etc {
-    name: "google.xml",
-    src: "proprietary/product/etc/sysconfig/google.xml",
-    relative_install_path: "sysconfig",
-    filename_from_src: true,
-    product_specific: true,
-}
-
-prebuilt_etc {
     name: "privapp-permissions-google-product.xml",
     src: "proprietary/product/etc/permissions/privapp-permissions-google-product.xml",
     relative_install_path: "permissions",
